@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of a prerogative royal. Shevving how far a soveraigne may according to the VVord of God require service of his subjects by his prerogative. Also how far a subject is to give true obedience unto his soveraigne. By M: B. wishing happy prosperity unto the King, Parliament and kingdome.</title>
+            <author>M. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76195</idno>
+            <idno type="STC">Wing B134</idno>
+            <idno type="STC">Thomason E114_16</idno>
+            <idno type="STC">ESTC R9675</idno>
+            <idno type="EEBO-CITATION">99873598</idno>
+            <idno type="PROQUEST">99873598</idno>
+            <idno type="VID">126075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126075)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E114[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of a prerogative royal. Shevving how far a soveraigne may according to the VVord of God require service of his subjects by his prerogative. Also how far a subject is to give true obedience unto his soveraigne. By M: B. wishing happy prosperity unto the King, Parliament and kingdome.</title>
+                  <author>M. B.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "August. 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126075:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 100 -->
+            <p>A DESCRIPTION Of a <hi>PREROGATIVE ROYAL.</hi>
+            </p>
+            <p>SHEVVING How far a SOVERAIGNE may ac<g ref="char:EOLhyphen"/>cording to the VVord of God require ſer<g ref="char:EOLhyphen"/>vice of his Subjects by his PREROGATIVE.</p>
+            <p>Alſo How far a Subject is to give true obe<g ref="char:EOLhyphen"/>dience unto his SOVERAIGNE.</p>
+            <p>By M. B. wiſhing happy proſperity unto the King, Par<g ref="char:EOLhyphen"/>liament and Kingdome.</p>
+            <q>
+               <bibl>Acts 2 17.</bibl>
+               <p>And it ſhall be in the laſt dayes, ſaith God, I will powre out my Spi<g ref="char:EOLhyphen"/>rit upon all fleſh, and your ſonnes, and your daughters ſhall pro<g ref="char:EOLhyphen"/>pheſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and your young men ſhall ſee viſions, and your old man ſhall dreame dreams.</p>
+            </q>
+            <q>
+               <bibl>Pſal 119.46.</bibl>
+               <p>I will ſpeake of thy teſtimonies alſo even before Kings: and will not be aſhamed.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. B.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:126075:2"/>
+            <!-- PDF PAGE 101 -->
+            <head>The deſcription of a PREROGATIVE ROYALL.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it hath beene and is a great queſtion a<g ref="char:EOLhyphen"/>bout a Prerogative Royall, and the liberties thereof by Papiſts, Atheiſts, Newters, or men of no religion, that ſeeke after preferment and authority by cogging flattering and ly<g ref="char:EOLhyphen"/>ing and not by chriſtian upright dealing, and thereby do abuſe the King our Soveraigne, pulling and ſtretch<g ref="char:EOLhyphen"/>ing out his prerogative untill it bee rejected of all true ſub<g ref="char:EOLhyphen"/>jects, and doe not onely abuſe the King under pretence of his Prerogative Royall, but doe thereby falſifie the truth of it, for they do deſcribe the Kings Prerogative in this manner ſaying:</p>
+            <p>That his Majeſty may by his Prerogative, command the goods, the Chattells, and the lives of any his ſubjects inhabi<g ref="char:EOLhyphen"/>ting within his kingdome and dominions, and that is falſe which you ſhall ſee anon.</p>
+            <p>Now ſeeing that Antichriſt his brood can make bold to deſcribe a Prerogative Royall in a falſe maner to ſet the king and his ſubjects at variance, I do thinke it not onely neceſ<g ref="char:EOLhyphen"/>ſarie but alſo of neceſſity for a chriſtian ſubject to deſcribe the truth of a Prerogative Royall, thereby to ſet peace betweene the king and his ſubjects, ſo farre forth as it ſhall pleaſe God to give his bleſſing thereunto.</p>
+            <p>And now to the matter what the Kings Prerogative is, as namely that the King is ſubject to none but to God.</p>
+            <p>So that he may have command of the ſubjects whatſoever things neceſſary and neceſſitie doth require, ſo farre forth as the truth of his Prerogative doth extend.</p>
+            <p>
+               <hi>Object.</hi> Then the King may command or require whatſoe<g ref="char:EOLhyphen"/>ver the malignant party aforeſaid hath ſpoken of before.</p>
+            <p>
+               <hi>Anſw.</hi> No, for as the King is ſubject to none but to God, ſo he is ſubject onely to God alone, and for to give an account unto God for all his workes whether good or evill, ſo that the
+<pb facs="tcp:126075:2"/>
+               <!-- PDF PAGE 101 -->office of a King as it is the greateſt dignitie and honour in all the world, ſo it is a heavie burden being well conſidered and flatterers, inchanters or ſpirituall witches, will make it more heavie, if God in his mercie do not defend him from thoſe wicked fiends.</p>
+            <p>But the truth is a Prerogative Royall doth ſtand upon three points, or architects: that is to ſay foundation, ſupportation, and obligation, even ſo doth the Prerogative Royall ſtand up<g ref="char:EOLhyphen"/>on the foundation of truth, ſupportation of judgement, obli<g ref="char:EOLhyphen"/>gation or bond of righteouſneſſe: now if any of theſe three points be wanting, in architect the building cannot ſtand.</p>
+            <p>Even ſo likewiſe in a Prerogative Royall it ſtands as afore<g ref="char:EOLhyphen"/>ſaid, upon theſe three points, but after a myſticall manner, as firſt, the foundation of truth, ſecondly the ſuportation of judge<g ref="char:EOLhyphen"/>ment, and thirdly the bond of righteouſneſſe.</p>
+            <p>And theſe three points hath God commanded the Kings Pre<g ref="char:EOLhyphen"/>rogative to ſtand upon, as firſt in the booke of Deuteronomie, the 17. chap. the 18.19. and 20. verſes: Giving us to under<g ref="char:EOLhyphen"/>ſtand that Kings muſt be godly, and religious, whoſe affecti<g ref="char:EOLhyphen"/>ons muſt bee ſtill to obey the truth, the will, and the word of God, wherby he may be a diſcerner of truth from falſhood; and and not to be carried away with every winde of falſe doctrine, as many Kings are.</p>
+            <p>The ſecond point that the Prerogative is upholden by, is judgement, for if a man have never ſo good foundation in the truth, yet if he have no judgement to ſupport the truth aright, whereby doth proceed matter of true faith, as good not know the truth, for without truth it is impoſſible to pleaſe God: even ſo the Kings prerogative muſt have judgement to uphold the truth, for he that hath not true judgement is ſub<g ref="char:EOLhyphen"/>ject to many errors and falls into hereſies and is alwaies apt and ready to be deluded, and miſerably deteined.</p>
+            <p>The third point upon which a good building doth conſiſt, is Peace, Obligation, and a ſound Band; for in Architect the foundation, the ſupportation, being never ſo firme to ſhew, yet if it have not good Band to hold it outward to<g ref="char:EOLhyphen"/>gether, it will ſoone fall, and be ruinated.</p>
+            <p>Even ſo ſtands the caſe of a Prerogative Royall if it
+<pb facs="tcp:126075:3"/>
+               <!-- PDF PAGE 102 -->have not truth, and having truth, hath not judgement, and having judgement, have not the bond of Righteouſneſſe, it can be no Prerogative Royall, for God hath commanded in the 22. of <hi>Jeremy,</hi> the 1, 2, 3, 4, and 5. verſes.</p>
+            <p>So here, we vulgar ſort of people may ſee upon what ground the Kings Prerogative doth ſtand, as namely, upon Truth, Judgement, and Righteouſneſſe, ſo as Truth and Judge<g ref="char:EOLhyphen"/>ment doe teach matter of Faith, ſo Judgements and Righteouſneſſe doe teach manners of life and converſation.</p>
+            <p>So that here we may learne and obſerve, that as it is the duty of all Kings from God to raigne, to rule, to governe and command (in their ſeverall Kingdomes, and Dominions) all the ſubjects according to the Prerogative afore mentioned.</p>
+            <p>So it is the duty of every ſubject from God faithfully to o<g ref="char:EOLhyphen"/>bey his Soveraigne Lord the King, according to the ſame Prerogative, as in Truth, Judgement, and Righteouſneſſe, and this in the performance of this duty, will make a good accommodation and reconciliation between King and Peo<g ref="char:EOLhyphen"/>ple, Soveraigne and Subject.</p>
+            <p>As in <hi>Joſhua</hi> the firſt Chapter 16. and 17. verſes, <hi>And they anſwered Joſhua,</hi> ſaying, <hi>All that thou haſt commanded us will we doe, and whitherſover thou ſendeſt us will we goe, as we obeyed Moſes in all things, ſo will we obey thee, onely the Lord thy God be with thee, as he was with Moſes: Whoſoever ſhall rebell againſt thy Commandements, and will not obey thy words, in all that thou com<g ref="char:EOLhyphen"/>mandeſt him, let him be put to death, only be ſtrong and of a good courage.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> Then the King may command what he pleaſe.</p>
+            <p>
+               <hi>Anſwer.</hi> As <hi>Moſes</hi> and <hi>Joſhua</hi> did receive Gods will by immediate meanes; ſo the King and his People muſt receive the will of God by immediate meanes, as namely, from the written word of God.</p>
+            <p>This being ſo, it is a maxime inviolable, the uſe that wee are to make is this, that it doe not onely reprove, but alſo condemne thoſe that doe abuſe and falſifie the Kings Pre<g ref="char:EOLhyphen"/>rogative, ſaying, and holding that the King may command by his Prerogative the lives, lands and goods and chattells of a<g ref="char:EOLhyphen"/>ny ſubject or ſubjects, when or whereſoever he pleaſeth,
+<pb facs="tcp:126075:3"/>
+               <!-- PDF PAGE 102 -->and ſo conſequently doe make of a good King a witty ty<g ref="char:EOLhyphen"/>rant, not onely in matters of faith, but alſo in manners of life, wherein doe conſiſt the mark of true Chriſtianity.</p>
+            <p>And thoſe miſerable wretches being croſt in their wicked deſignes, have laboured by all meanes poſſible to make va<g ref="char:EOLhyphen"/>riance betweene the King and his Parliament, and ſo by this conſequence they raiſe a breach between the King and this Kingdome, by their inchanting ſpirituall witchery, flattering and diſſembling, and ſo ſeducing the King under pretence of honeſty and plaine dealing, when there is no ſuch matter, but only meere deceit, and all for their owne ends.</p>
+            <p>But be they what they will be, ſo long as they continue in thoſe wicked courſes and practiſes, that make themſelves in<g ref="char:EOLhyphen"/>ſtruments and ſlaves to their maſter the Divell, and he will one day pay them their wages to their utter ſhame and con<g ref="char:EOLhyphen"/>fuſion of ſoule and body for evermore, except God in his mercy doe give them grace to repent.</p>
+            <p>The ſecond Uſe is to adviſe them to pray unto God that he will be mercifull unto them, to open the eyes of their un<g ref="char:EOLhyphen"/>derſtanding, and to give them a cleare ſight and feeling of their ſins, that they may not be blinded in them through de<g ref="char:EOLhyphen"/>light or cuſtome, as reprobates are: But that they may bee weary of them, much grieved for them, if the Lord of his mercy touch their hearts with true repentance, that they bee inwardly ſory for all ſins, not to take any delight or pleaſure in any <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, but that they turne to the Lord with all their heart, and ſeeke him while he may be found, and call upon him when he is neare, and whiles he offereth grace and mer<g ref="char:EOLhyphen"/>cie unto them before it be too late.</p>
+            <p>Furthermore, ſeeing the King is ſubject to none but to God; then here is a duty for all Chriſtian Subjects to entreat the Lord by dayly prayer ſo to ſanctifie and direct our Kings heart, that he may raigne, rule, and governe us according to his bleſſed and ſacred will revealed in his word, that is to ſay, in Truth, Iudgement, and Righteouſneſſe, and that God would vouchſafe to enrich his royall heart with the manifold graces of his holy Spirit, that he may be an advancement to his glory and comfort to his Church, and a terror to his ene<g ref="char:EOLhyphen"/>mies,
+<pb facs="tcp:126075:4"/>
+               <!-- PDF PAGE 103 -->keeping from treaſon and treacheriet at home and a<g ref="char:EOLhyphen"/>broad, and eſpecially from the conſpiracie of Romaniſts, and from ſeducing deluding flatterers, giving him to ſee what be<g ref="char:EOLhyphen"/>longs to his peace, and give him a heart earneſtly bent to ſet up the practice of the ſame; give him all grace neceſſary for his place, and neceſſary for his owne ſalvation, continue his government peaceably and proſperouſly amongſt us, and as thou haſt made him the breath of our noſtrills, and a graci<g ref="char:EOLhyphen"/>ous inſtrument for the ſaving of many thouſand ſoules: So O Lord, let his owne ſoule be ſaved in the day that thy Sonne Jeſus Chriſt ſhall appeare, and grant deare Father that wee his ſubjects may lead a quiet and peaceable life in all godli<g ref="char:EOLhyphen"/>neſſe and honeſty; and now O Lord, we beſeech the ſtreng<g ref="char:EOLhyphen"/>then his Majeſty, and ſanctifie his royall affection, that he may imitate thy good ſervant King <hi>David</hi> in the reformation of his houſe, from the neareſt to the furtheſt, the higheſt to the loweſt: fix his eyes O Lord, upon the faithfull of the land, that they may dwell with him, Pſal. 101. and to have reſpect to thoſe that walke in the perfect way to ſerve him, and give him O Lord, a ſetled reſolution, that no deceitfull perſon dwell within his houſe, and he that flattereth and telleth lies may not remaine in his ſight. Amen, ſo be it.</p>
+            <p>So that if all faithfull ſubjects that are Houſholders, will take this for a preſident, to receive and entertaine good and faithfull ſervants, and to turne out all wicked and profane wretches, that have no feare of God before their eyes, ſo that when theſe people ſhall ſee themſelves caſt out of the favour of God, good men, and their ſervices, and pious fami<g ref="char:EOLhyphen"/>lies, by reaſon of their wicked behaviour; by this means they may be brought to ſee their owne miſery and groſſe ſins they have committed; and conſidering what vile wretched per<g ref="char:EOLhyphen"/>ſons they have been, like to the prodigall ſonne ſpoken of in the Goſpel, Luke 15. thereby grace may worke upon them, as to turne their wayes from evill to goodneſſe, and change their mindes from vice to vertue, and to pray to God to give them true and hearty repentance; that whereas they were before prophaners of the Lords day, they may be ſanctifiers of the Lords day; of blaſphemers and foule mouth'd ſwea<g ref="char:EOLhyphen"/>rers,
+<pb facs="tcp:126075:4"/>
+               <!-- PDF PAGE 103 -->to become reverend ſpeakers, of proud, to bee hum<g ref="char:EOLhyphen"/>ble, of damnable idolaters to bee true worſhippers of God according to his Word; of railers and ſpitefull haters of the true preachers and profeſſors of Gods Word, to be true hearted lovers of the Preachers and profeſſors of Gods Word; of ignorants of God, to learne to be well acquain<g ref="char:EOLhyphen"/>ted with God and his word; of hurtfull, harmleſſe; of filthy whore-mongers and wantons, to become chaſte livers; of beaſtly drunkards, to become ſober people; of cheaters and theeves, to hate and deteſt all ſinne as the very hang-man or cut-throat of our ſoules.</p>
+            <p>Theſe are ſome of the fruits of true repentance, ſo that they may be regenerated faithfull and religious people to the glo<g ref="char:EOLhyphen"/>ry of God, and ſalvation of our own ſoules in Jeſus Chriſt our onely Saviour and Redeemer.</p>
+            <p>But now to anſwer to an objection that may bee made by Papiſts, Atheiſts, Newters, and Proteſtants at large.</p>
+            <p>
+               <hi>Object.</hi> This which you have before ſpoken, is too much preciſeneſſe, we are not to live ſo preciſely, and none are ſo preciſe but Puritans.</p>
+            <p>
+               <hi>Anſw.</hi> Firſt, preciſeneſſe in matters of Religion is not on<g ref="char:EOLhyphen"/>ly neceſſary, but alſo of neceſſity, becauſe St. <hi>Paul</hi> doth con<g ref="char:EOLhyphen"/>firme it.</p>
+            <p>In the time, or after the way which you call hereſie, ſo worſhip I the God of my Fathers, beleeving all things which are written in the Law and the Prophets, Acts 24.14.</p>
+            <p>Secondly, preciſeneſſe in Religion is of neceſſity, elſe we ſhould be ignorant of the knowledge of God, and then mark what judgements of God will follow. Saint <hi>Paul</hi> ſaith in the Romans, chap. 1. verſ. 28. For as they regard not to know God, even ſo God delivereth them up unto a reprobate mind, to doe the things that are not convenient.</p>
+            <p>Againe in 2 Theſſ. 1.8.9. And unto you that are troubled, reſteth us, when the Lord Jeſus ſhall ſhew himſelfe with his mighty Angels in flaming fire, rendring vengeance to them that know not God, and obey not the Goſpell of our Lord Jeſus Chriſt, which ſhall be puniſhed with everlaſting perdition from the preſence of the Lord, and from the glory of his power.</p>
+            <p>
+               <pb facs="tcp:126075:5"/>
+               <!-- PDF PAGE 104 -->
+Thirdly, I would willingly know what opinion Puritans (as you tear me them) doe hold contrary to that as every one hath promiſed to God in his baptiſme, and is bound upon pain of damnation to performe it.</p>
+            <p>If you can prove any thing contrary to that covenant made unto God, then make it appeare, and ſpare not. But if you cannot prove any thing contrary to that we have promiſed and vowed in our Baptiſme (as indeed you cannot) then take heed how you doe hate and deride the Preachers and Profeſ<g ref="char:EOLhyphen"/>ſors of the Goſpel, giving them nick-names and ſcoffing termes: for Chriſt his words wil prove true, that hath threat<g ref="char:EOLhyphen"/>ned againſt thoſe railing, deſpitefull, and envious wretches, that it ſhall be eaſier for the people of Sodom and Gomorrah in the day of judgement, then for ſuch, Matth. 10.15. Then being ſo, it were good for thoſe people that are given over to ſuch a habit of deriding and deſpiſing Gods ordinances, that they take into conſideration the great danger they doe pull upon their owne ſoules and bodies, which are judge<g ref="char:EOLhyphen"/>ments in this life, and eternall torment in the world to come. Firſt judgements in this life, as ignorants of God, thereby comes blindneſſe of minde, Eſa. 6.9.10. and 59.8.9 10. Hardneſſe of heart, infidelity and unbeliefe, Matth. 3.5. Exo. 9 34.35.</p>
+            <p>Secondly, eternall torments, as to be ſeparated from a good and mercifull gracious God, and to burne in the lake of fire and brimſtone for evermore, which is the ſecond death, Rev. 21.8. Conſider what is ſaid, and the Lord be with your un<g ref="char:EOLhyphen"/>derſtanding in all things, 1 Tim. 2.7.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
